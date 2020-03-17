@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Utility
+comment1.params=args
+comment1.target=void\ splitinto2(java.lang.String[])
+comment2.params=rot
+comment2.target=void\ shiftelement(int)
+comment3.params=mat
+comment3.target=void\ symmetric(int[][])
+comment4.params=sizeofsquare
+comment4.target=void\ magicsquare(int)
+comment5.params=n
+comment5.target=void\ createsquare(int)
+numComments=6
